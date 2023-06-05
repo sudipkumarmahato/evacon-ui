@@ -290,6 +290,13 @@ body {
   color: var(--color);
   font-family: var(--ff-source-sans-pro);
   font-size: var(--fs-3);
+  display: flex;
+  flex-direction: row;
+  
+}
+.logo-dot{
+  color: white;
+  
 }
 
 .nav-open-btn {
